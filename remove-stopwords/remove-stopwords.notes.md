@@ -1,0 +1,1 @@
+Stopwords are common words that appear frequently in text but carry little semantic meaning on their own. Examples include "the", "is", "at", "which", "on", "a", "an", "and", "or", "but".
